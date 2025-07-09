@@ -5,8 +5,7 @@
   ☕ Focado em back-end com Java e Spring<br>
   📚 Aprendendo todos os dias para me tornar um desenvolvedor de destaque<br>
   🚀 Em busca da minha primeira oportunidade na área de desenvolvimento<br>
-  🌍 Sonho em trabalhar remoto e viajar pela Europa<br>
-  🧑‍ Pronome: ele/dele
+ 
 </p>
 
 ---
@@ -38,9 +37,5 @@
 
 ---
 
-## 👤 Sobre mim
 
-<img src="https://raw.githubusercontent.com/tareckbarghouthi/tareckbarghouthi/main/assets/foto-tareck.jpg" width="200px" alt="Tareck Barghouthi" style="border-radius: 10px;"/>
-
----
 
