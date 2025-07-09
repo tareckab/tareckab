@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Tareck
 
-<!--
-**tareckab/tareckab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)  
+☕ Focado em desenvolvimento back-end com Java e Spring  
+🚀 Em busca da primeira oportunidade como desenvolvedor  
+📚 Estudando diariamente para evoluir como dev  
+🎯 Pronome: ele/dele  
+🌍 Sonho em trabalhar remoto e viajar pelo mundo
 
-Here are some ideas to get you started:
+## 📫 Contato
+[LinkedIn](https://linkedin.com/in/seu-usuario) • [Email](mailto:seuemail@email.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Tareck's GitHub stats](https://github-readme-stats.vercel.app/api?username=tareckbarghouthi&show_icons=true&theme=github_dark)
