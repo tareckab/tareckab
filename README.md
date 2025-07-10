@@ -25,7 +25,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tareckbarghouthi&layout=compact&theme=github_dark)
 ![Tareck's GitHub stats](https://github-readme-stats.vercel.app/api?username=tareckbarghouthi&show_icons=true&theme=github_dark)
 
 ---
