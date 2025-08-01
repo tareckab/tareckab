@@ -2,9 +2,9 @@
 
 <p align="center">
   💻 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)<br>
-  ☕ Focado em back-end com Java e Spring<br>
+  ☕ Focado em back-end <br>
   📚 Aprendendo todos os dias para me tornar um desenvolvedor de destaque<br>
-  🚀 Em busca da minha primeira oportunidade na área de desenvolvimento<br>
+  
  
 </p>
 
