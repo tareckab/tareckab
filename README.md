@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá! Eu sou o Tareck</h1>
 
 <p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)<br>
-  ☕ Focado em back-end <br>
-  📚 Aprendendo todos os dias para me tornar um desenvolvedor de destaque<br>
+  💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  ☕ Back-end developer <br>
+  
   
  
 </p>
