@@ -10,7 +10,7 @@
 
 ---
 
-## Tecnologias que estou estudando e utilizando
+## Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
